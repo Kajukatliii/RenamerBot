@@ -1,4 +1,5 @@
-# (c) @AbirHasan2005 & @subinps
+#!/usr/bin/python_bot
+# @hacker_as_fuck
 # Bruh!
 # Took a huge time to make this script.
 # So Plis,
