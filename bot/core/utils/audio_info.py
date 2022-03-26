@@ -1,4 +1,5 @@
-# (c) @AbirHasan2005
+#!/usr/bin/python_bot
+# @hacker_as_fuck
 
 from mutagen import mp3, wave, aac
 
