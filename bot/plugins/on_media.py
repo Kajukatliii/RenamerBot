@@ -1,4 +1,5 @@
-# (c) @AbirHasan2005
+# (c) @AbirHasan2005#!/usr/bin/python_bot
+# @hacker_as_fuck
 
 import asyncio
 from bot.client import Client
